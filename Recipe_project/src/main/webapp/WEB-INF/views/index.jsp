@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>레시피 사이트</title>
+<jsp:include page="header.jsp"></jsp:include>
 </head>
 <body>
 	<h1>안녕</h1>
