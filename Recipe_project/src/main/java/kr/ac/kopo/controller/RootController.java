@@ -10,4 +10,9 @@ public class RootController {
 	String index() {
 		return "index";
 	}
+	
+	@GetMapping("/brand")
+	String brand() {
+		return "brand";
+	}
 }
